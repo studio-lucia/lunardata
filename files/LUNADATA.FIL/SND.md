@@ -19,8 +19,6 @@ While some games share instrument data between songs, Lunar has unique VB/VH fil
 
 ## Tools
 
-## Tools
-
 | Tool | Read | Write |
 | ---- | ---- | ----- |
 | [BioFat (older versions)](http://www.mediafire.com/file/6597al60vz2r3vm/biofat_svn06232011.zip) | Able to extract files into a folder structure | Advertises ability to repack files; haven't tested |
