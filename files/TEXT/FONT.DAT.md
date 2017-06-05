@@ -24,3 +24,14 @@ One 8x8 font and the 8x16 font contain a full set of numbers, but otherwise none
 Some of the text in one of the 8x8 fonts and in the 8x16 font spans multiple tile, e.g. is treated as an image rather than as a font.
 The 8x8 fonts are used for status text and character names in the menu at the bottom of the screen.
 The 8x16 font is used in menus.
+
+## Palette
+
+The primary palette is as follows:
+
+0 - transparent
+1 - #D8D8D8
+2 - #8080B0
+3 - #001040
+
+This palette applies to all fonts in both files, but in-game the 8x8 fonts are sometimes rendered in different colours (for example, green to indicate full health, orange to indicate status effects, etc.)
