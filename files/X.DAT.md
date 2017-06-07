@@ -4,7 +4,7 @@
 
 ## Description
 
-Unlike the previous release, which used a standard file layout, Lunar: Silver Start Story Complete for the Saturn bundles most of its files into data bundles.
+Unlike the previous release, which used a standard file layout, Lunar: Silver Star Story Complete for the Saturn bundles most of its files into data bundles.
 Each bundle groups together files of similar functionality; for example, `TEXT.DAT` contains all of the script files.
 
 ## Format
