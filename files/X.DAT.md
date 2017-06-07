@@ -10,7 +10,7 @@ Each bundle groups together files of similar functionality; for example, `TEXT.D
 ## Format
 
 Each file opens with a header, which contains a complete directory listing.
-The directory listing is oriented around Mode 1 CD-ROM sectors: all file locations are listed in terms of sectors, and the header itself is always padded to end on a sector boundary.
+The directory listing is oriented around [Mode 1 CD-ROM](https://en.wikipedia.org/wiki/CD-ROM#CD-ROM_format) sectors: all file locations are listed in terms of sectors, and the header itself is always padded to end on a sector boundary.
 
 ### Directory entries
 
