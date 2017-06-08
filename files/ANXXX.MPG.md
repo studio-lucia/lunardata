@@ -25,4 +25,4 @@ Audio is encoded as stereo MPEG-1 layer 2 at 192 kb/s at a sample rate of 44100H
 ## Tools
 
 Because these videos are standard MPEG, they will play back in any video player.
-Any video player that can author VCD-compatible files can produce compatible videos.
+Any software that can author VCD-compatible files can produce compatible videos.
