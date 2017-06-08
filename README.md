@@ -15,6 +15,8 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Platform | Sega Saturn |
 | Release date | October 10, 1996 |
 | Media | CD-ROM (1 disc) |
+| Region | Japan |
+| Langauge | Japanese |
 
 ### Lunar: Silver Star Story Complete
 
@@ -24,6 +26,8 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Platform | Sega Saturn |
 | Release date | July 4, 1997 |
 | Media | CD-ROM (1 disc) |
+| Region | Japan |
+| Langauge | Japanese |
 | Requirements | Video CD card |
 
 ### Lunar: Silver Star Story
@@ -34,6 +38,8 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Platform | Sony PlayStation |
 | Release date | May 28, 1998 (rereleased April 28, 1999) |
 | Media | CD-ROM (2 discs) |
+| Region | Japan |
+| Langauge | Japanese |
 
 ### Lunar: Silver Star Story Complete
 
@@ -43,6 +49,8 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Platform | Sony PlayStation |
 | Release date | May 28, 1999 (rereleased January, 2001) |
 | Media | CD-ROM (2 discs) |
+| Region | North America |
+| Langauge | English |
 
 ### Lunar: Silver Star Story
 
@@ -52,6 +60,8 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Platform | Windows PC |
 | Release date | December, 1999 |
 | Media | CD-ROM (2 discs) |
+| Region | Japan |
+| Langauge | Japanese |
 
 ### Lunar: Silver Star Story Touch
 
@@ -61,3 +71,5 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Platform | iOS |
 | Release date | September 20, 2012 |
 | Media | App Store |
+| Region | Worldwide |
+| Langauge | English, Japanese |
