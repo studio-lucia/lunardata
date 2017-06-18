@@ -23,5 +23,4 @@ Each entry in the directory is 24 bytes long, and consists of the following:
 | 14 - 15 | Location of the beginning of the file, in 2048-byte sectors from the beginning of the file (0-indexed) | 16-bit big-endian integer |
 | 16-17 | Padding | |
 | 18-19 | Location of the end of the file, in 2048-byte sectors from the beginning of the file (0-indexed) | 16-bit big-endian integer |
-| 20-21 | Padding | |
-| 22-23 | Size of the file, in bytes | 16-bit big-endian integer |
+| 20-23 | Size of the file, in bytes | 32-bit big-endian integer |
