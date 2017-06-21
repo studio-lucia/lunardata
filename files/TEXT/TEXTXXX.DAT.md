@@ -30,6 +30,8 @@ Text: "Should we bring one of these home to your mom?"; begins at 0xB9D0 in the 
 
 ### Bytes before dialogue
 
+All bytes prior to the character portrait are pairs of bytes, e.g. 16-bit numbers. These are byteswapped on PS1; they're given here in their Saturn format.
+
 FF
 FF
 00
