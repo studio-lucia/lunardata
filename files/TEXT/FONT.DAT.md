@@ -1,12 +1,13 @@
 | Version(s) |
 | ---------- |
-| * Saturn |
+| * Saturn (original) |
 
 ## Description
 
-Contains the game's fonts.
-These files are missing from the PlayStation port, and unused in the iOS port.
-It's not yet clear what file format they use.
+Contains copies of the game's fonts.
+These files are missing from the second Saturn revision and the PlayStation port, and unused in the iOS port.
+
+While these fonts appear to be mostly identical to the fonts used in game, they're not actually used. The game runs and displays text just fine if these files are deleted from the disc altogether.
 
 ### FONT.DAT
 
