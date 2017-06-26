@@ -3,6 +3,8 @@
 This project contains my notes on the file formats used by [Lunar: Silver Star Story](https://en.wikipedia.org/wiki/Lunar:_Silver_Star_Story), the 32-bit remake of [Studio Alex](https://en.wikipedia.org/wiki/Studio_Alex)/[Game Arts](https://en.wikipedia.org/wiki/Game_Arts)'s game [Lunar: The Silver Star](https://en.wikipedia.org/wiki/Lunar:_The_Silver_Star).
 I've tried to cover as many of the ports as possible, though I'm not covering the original Sega CD version or the other two remakes.
 
+This project only covers this game, although the other two Saturn Lunar games contain similar data formats. I have a [separate repository](https://github.com/mistydemeo/magicaldata) with my notes on Magical School Lunar!.
+
 ## Versions
 
 Lunar: Silver Star Story was released for a very large number of platforms, with major file format differences between even superficially similar games.
