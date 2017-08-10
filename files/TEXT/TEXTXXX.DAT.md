@@ -17,6 +17,8 @@ The Japanese versions of the game use a 16x16 font for dialogue, and a mixture o
 
 The Japanese Saturn and iOS versions use the index of a character in the 16x16 font as its codepoint. For example, codepoint 0x000F is "ア", the character at the 0x0Fth position in the 16x16 font table. (TODO: this may or may not apply higher up in the table, do some research to figure out precise mapping)
 
+The English iOS version uses ASCII. It's the only version to use a 1-byte encoding.
+
 ## Files
 
 Files TEXT000 through TEXT059 appear to contain dialogue, while TEXT100 and TEXT200 probably contain menu text.
