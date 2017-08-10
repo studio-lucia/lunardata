@@ -74,3 +74,8 @@ The portrait control code isn't required for every dialogue box. If skipped for 
 
 The last dialogue box in a series of boxes is marked by 00, followed by FF00 FF03 to indicate no further dialogue is coming. Dialogue that doesn't end in 00 is presumed to be followed by another dialogue box, with FF00 FF01 separating dialogue boxes.
 
+## Tools
+
+| Tool | Read | Write |
+| ---- | ---- | ----- |
+| [http://github.com/suppertails66/wdtools](wdtools) | Includes a tool to dump the English script from the PS1 release. | No? |
