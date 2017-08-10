@@ -22,4 +22,5 @@ Audio is encoded as stereo [planar](https://www.ffmpeg.org/doxygen/2.5/group__la
 
 | Tool | Read | Write |
 | ---- | ---- | ----- |
+| [Cinerepak](https://github.com/mistydemeo/cinerepak) | Able to display metadata. | Able to replace streams within an existing container, but not author a file from scratch. |
 | [FFmpeg](https://www.ffmpeg.org) | Able to decode and play both video and audio. | Able to encode Cinepak video, but not currently able to mux streams into Sega FILM containers. |
