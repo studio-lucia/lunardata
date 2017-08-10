@@ -9,7 +9,7 @@ This project only covers this game, although the other two Saturn Lunar games co
 
 Lunar: Silver Star Story was released for a very large number of platforms, with major file format differences between even superficially similar games.
 
-### Lunar: Silver Star Story
+### Saturn
 
 | | |
 |---|---|
@@ -19,8 +19,6 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Media | CD-ROM (1 disc) |
 | Region | Japan |
 | Langauge | Japanese |
-
-### Lunar: Silver Star Story Complete
 
 | | |
 |---|---|
@@ -32,7 +30,7 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Langauge | Japanese |
 | Requirements | Video CD card |
 
-### Lunar: Silver Star Story
+### PlayStation
 
 | | |
 |---|---|
@@ -43,8 +41,6 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Region | Japan |
 | Langauge | Japanese |
 
-### Lunar: Silver Star Story Complete
-
 | | |
 |---|---|
 | Title | Lunar: Silver Star Story Complete |
@@ -54,18 +50,18 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Region | North America |
 | Langauge | English |
 
-### Lunar: Silver Star Story
+### Windows
 
 | | |
 |---|---|
-| Title | Lunar: Silver Star Story Complete |
+| Title | Lunar: Silver Star Story |
 | Platform | Windows PC |
 | Release date | December, 1999 |
 | Media | CD-ROM (2 discs) |
 | Region | Japan |
 | Langauge | Japanese |
 
-### Lunar: Silver Star Story Touch
+### iOS
 
 | | |
 |---|---|
