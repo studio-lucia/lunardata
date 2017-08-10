@@ -75,3 +75,11 @@ Lunar: Silver Star Story was released for a very large number of platforms, with
 | Media | App Store |
 | Region | Worldwide |
 | Langauge | English, Japanese |
+
+## Tools
+
+Suppertails66,  and myself have written a few tools to help work with the game's data formats.
+
+* [https://github.com/mistydemeo/cinerepak](cinerepak) - Remux Sega FILM Cinepak files (allows inserting English audio)
+* [theSegSat](https://github.com/doyousketch2/theSegSat) - Tile viewer and editor for fonts
+* [http://github.com/suppertails66/wdtools](wdtools) - Various tools for dealing with text and other data files
