@@ -19,6 +19,12 @@ The Japanese Saturn and iOS versions use the index of a character in the 16x16 f
 
 The English iOS version uses ASCII. It's the only version to use a 1-byte encoding.
 
+## Compression
+
+The Saturn and iOS versions don't use compression.
+
+The PS1 versions (in both languages) and the Windows version use compression for their text; see [Supper's tools](https://github.com/suppertails66/wdtools/blob/master/src/lsss_txt.cpp) for information on the format.
+
 ## Files
 
 Files TEXT000 through TEXT059 appear to contain dialogue, while TEXT100 and TEXT200 probably contain menu text.
