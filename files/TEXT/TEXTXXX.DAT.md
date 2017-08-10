@@ -78,4 +78,4 @@ The last dialogue box in a series of boxes is marked by 00, followed by FF00 FF0
 
 | Tool | Read | Write |
 | ---- | ---- | ----- |
-| [http://github.com/suppertails66/wdtools](wdtools) | Includes a tool to dump the English script from the PS1 release. | No? |
+| [wdtools](http://github.com/suppertails66/wdtools) | Includes a tool to dump the English script from the PS1 release. | No? |
