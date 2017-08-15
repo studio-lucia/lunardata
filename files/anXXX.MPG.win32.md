@@ -4,7 +4,7 @@
 
 ## Description
 
-All of the game's FMVs, in files named an000.mpg through an057.mpg. Each file consists of an [MPEG-PS](https://en.wikipedia.org/wiki/MPEG_program_stream) container, with one [MPEG-1](https://en.wikipedia.org/wiki/MPEG-1) video stream and one stereo [MPEG-1 audio](https://en.wikipedia.org/wiki/MPEG-1#Part_3:_Audio) stream.
+All of the game's FMVs, in files named an000.mpg through an067.mpg. Each file consists of an [MPEG-PS](https://en.wikipedia.org/wiki/MPEG_program_stream) container, with one [MPEG-1](https://en.wikipedia.org/wiki/MPEG-1) video stream and one stereo [MPEG-1 audio](https://en.wikipedia.org/wiki/MPEG-1#Part_3:_Audio) stream.
 
 ### Video
 
@@ -12,7 +12,7 @@ Each video stream is at a resolution of 640x480 in [YUV420P](https://en.wikipedi
 
 ### Audio
 
-Audio is encoded as stereo MPEG-1 layer 2 at 192 kb/s at a sample rate of 44100Hz. It's about the same quality as the Saturn MPEG videos.
+Audio is encoded as MPEG-1 layer 2 at 192 kb/s at a sample rate of 44100Hz. A few tracks (such as the intro) are in stereo, while the rest are mono.
 
 ## Tools
 
