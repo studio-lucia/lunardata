@@ -79,6 +79,8 @@ The last dialogue box in a series of boxes is marked by 00, followed by FF00 FF0
 | Code | Meaning |
 | ---- | ------- |
 | FAXX | Character portrait - see above |
+| F90A | Space; the second byte is the size of the space in pixels |
+| FF02 | Newline |
 | FFFF | End of dialogue - no more dialogue boxes are coming |
 
 ## Tools
