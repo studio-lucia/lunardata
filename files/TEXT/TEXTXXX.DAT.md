@@ -74,6 +74,17 @@ The portrait control code isn't required for every dialogue box. If skipped for 
 
 The last dialogue box in a series of boxes is marked by 00, followed by FF00 FF03 to indicate no further dialogue is coming. Dialogue that doesn't end in 00 is presumed to be followed by another dialogue box, with FF00 FF01 separating dialogue boxes.
 
+## Control codes
+
+| Code | Meaning |
+| ---- | ------- |
+| FAXX | Character portrait - see above |
+| F90A | Space; the second byte is the size of the space in pixels |
+| FF01 | Text box advances automatically. Any text following this control code will be in the next box |
+| FF02 | Newline |
+| FF03 | Start a new text box. If not followed by a portrait control code, the next box will have no portrait |
+| FFFF | End of dialogue - no more dialogue boxes are coming |
+
 ## Tools
 
 | Tool | Read | Write |
