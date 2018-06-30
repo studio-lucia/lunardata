@@ -47,7 +47,7 @@ Each `FACE_XXX.DAT` file contains multiple portraits. The main characters each h
 | 033  | Xenobia, Dragonmaster Alex, Nash, Jessica, Mia, Kyle, sad Jessica + Nash |
 | 034  | Phacia, sad Jessica + Nash |
 | 035  | Laike, Alex |
-| 036  | Laike, dragon (which one?) |
+| 036  | Laike, white dragon |
 | 037  | Xenobia, Dragonmaster Alex, scared Jessica, young Ghaleon, young Dyne |
 | 038  | Sad Mia + Jessica + Alex + Nash |
 | 039  | Angry Nall, scared Alex + Nash + Jessica |
