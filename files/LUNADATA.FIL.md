@@ -1,11 +1,12 @@
 | Version(s) |
 | ---------- |
 | * PlayStation |
+| * Windows |
 
 ## Description
 
 A virtual filesystem bundling together most of the game's data, aside from its executables and streaming data.
-This is only used in the PlayStation version; other ports have a more typical filesystem layout.
+This is only used in the PlayStation and Windows versions; other ports have a more typical filesystem layout.
 
 ## Tools
 
